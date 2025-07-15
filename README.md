@@ -1,13 +1,11 @@
 
-# Python Notes for Beginners and Data Science Learners
+# 🚀 A-Z Guide to Learning C++ Programming 💻
 
-A comprehensive and beginner-friendly collection of Python programming notes, examples, and tips — ideal for students, educators, and data science enthusiasts.
-
-<a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Python-Notes"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/DALL%C2%B7E%202025-02-20%2010.08.14%20-%20A%20clean%2C%20modern%2C%20and%20well-spaced%20GitHub%20repository%20banner%20for%20Python%20and%20Machine%20Learning%20resources.%20The%20background%20is%20white%20with%20subtle%20blue%20gradient.webp"></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="180">
 </p>
-Welcome to the A-Z Guide to Python in Data Science repository! This comprehensive supplement offers an exhaustive exploration of Python in the context of Data Science, covering topics from basic to advanced levels of proficiency.
+Welcome to the ultimate resource for learning **C++ programming**! This repository is your all-in-one learning guide, packed with beginner to advanced notes, hands-on projects, examples, and curated resources for students, educators, and programmers.
+
 
 ## 📚 Table of Contents
 
