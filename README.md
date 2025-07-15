@@ -20,9 +20,9 @@ Welcome to the ultimate resource for learning **C++ programming**! This reposito
 
 
 
-## Overview: Python Notes for Beginners
+## Overview: c++ for Beginners
 
-These notes cover the most essential topics in Python programming, designed for absolute beginners, students in computer science, and professionals learning data science.
+These notes cover the most essential topics in c++ programming, designed for absolute beginners, students in computer science, and professionals learning data science.
 
 ## **Features👋🛒**
 
