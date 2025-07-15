@@ -1,8 +1,8 @@
-**About**
+# 🚀 A-Z Guide to Learn C++ Projects 💻🧠
 
-This repository is a related to all about C++ - an A-Z guide to the world of C++. This supplement contains the implementation of C++ topic (in Colab).
-                                      Follow Coursesteach for more content 
-
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="150">
+</p>
                               https://coursesteach.com/
 ## Course 01  - **📚🧑‍🎓📺 C+++**
 
