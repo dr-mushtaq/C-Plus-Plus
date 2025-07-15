@@ -89,7 +89,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 
 <details> 
-<summary> <h2> 📕Getting Started-Course 01 - 🐍Python </h2> </summary>
+<summary> <h2> 📕Getting Started-Course 01 - 🐍 Basic of C++ </h2> </summary>
 
 ##📚 Python Basics
  
