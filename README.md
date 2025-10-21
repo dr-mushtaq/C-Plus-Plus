@@ -201,7 +201,7 @@ This Chapter introduces students to Streamlit, a powerful open-source app framew
 </details>
 
 <details> 
-<summary> <h2>📕 Resources - Other Best Free Resources to Learn Python </h2> </summary>
+<summary> <h2>📕 Resources - Other Best Free Resources to C++ </h2> </summary>
 
 ## 👁️ Chapter1: - **Free Courses**
 | Title/link| Description | Reading Status |
@@ -236,7 +236,7 @@ Pending|
 ## 👁️ Chapter5: - **Github Repository**
 | Title/link| Description | Status |Feedback|
 |---|---|---|---|
-|[**✅ 1- Best-of Machine Learning with Python**](https://github.com/ml-tooling/best-of-ml-python?tab=readme-ov-file#data-visualization)|This curated list contains 920 awesome open-source projects with a total of 4.9M stars grouped into 34 categorie| Pending|⭐️⭐️⭐️|
+|[**1- Project Based Learning**](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)|This curated list contains 920 awesome open-source projects with a total of 4.9M stars grouped into 34 categorie| Pending|⭐️⭐️⭐️|
 
 ### **Module 01: Basics**
 ================================================================
