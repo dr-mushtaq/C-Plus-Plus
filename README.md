@@ -338,7 +338,9 @@ Pending|
  * [**Introduction of Python**](https://coursesteach.com/enrol/index.php?id=4)!
  * [**Machine Learning libraries**](https://coursesteach.com/enrol/index.php?id=176)!”
   
+## License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
 
  ## **✨Top Contributors**
 We would love your help in making this repository even better! If you know of an amazing Python course that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
